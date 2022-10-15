@@ -1,7 +1,5 @@
 # DIO Image Processing Package
 
-Description: 
-
 The package package_name is used to:
 
 	Processing:
