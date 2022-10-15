@@ -6,8 +6,8 @@ The package package_name is used to:
 
 	Processing:
 		- Histogram Matching
-    		- Structural Similarity
-    		- Resizing Sizes
+    	- Structural Similarity
+    	- Resizing Sizes
 	
 	Utilities:
 		- Image Reader
